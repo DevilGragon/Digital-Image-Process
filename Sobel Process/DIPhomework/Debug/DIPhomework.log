@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/11/30 星期一 19:27:46。
+     1>项目“E:\DIP homework\homework\DIPhomework\DIPhomework\DIPhomework.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\DIP homework\homework\DIPhomework\Debug\DIPhomework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opencv_ts300.lib opencv_world300.lib opencv_calib3d300.lib opencv_core300.lib opencv_features2d300.lib opencv_highgui300.lib opencv_flann300.lib opencv_hal300.lib opencv_imgcodecs300.lib opencv_imgproc300.lib opencv_ml300.lib opencv_objdetect300.lib opencv_photo300.lib opencv_shape300.lib opencv_stitching300.lib opencv_superres300.lib opencv_video300.lib opencv_videoio300.lib opencv_videostab300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\DIP homework\homework\DIPhomework\Debug\DIPhomework.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\DIP homework\homework\DIPhomework\Debug\DIPhomework.lib" /MACHINE:X64 Debug\DIPhomework.obj
+         Debug\stdafx.obj
+     1>Debug\DIPhomework.obj : fatal error LNK1112: 模块计算机类型“X86”与目标计算机类型“x64”冲突
+     1>已完成生成项目“E:\DIP homework\homework\DIPhomework\DIPhomework\DIPhomework.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.24
